@@ -4,4 +4,5 @@ But I think you already knew that !
 I have nothing special to put here... Unless...
 I'm currently developing a Minecraft for the TI-83PCE in ti-basic because for the moment the games already released are not extraordinary...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh64&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oh64&show_icons=true&theme=radical)
